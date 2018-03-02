@@ -1,5 +1,13 @@
 ##免费ss网站汇集 （不定期更新）
 
+ - 最近SETUPVPN chrome翻墙插件也可以用了[setupVpn](http://69.28.91.10/)
+ ```html
+    之前用过一段时间  好处在于使用安装方便  坏处不稳定
+    
+    不过现在他们刚更新 应该还行 时间点[2018-03-02]
+    
+```
+
 [https://github.com/max2max/freess/wiki/%E5%85%8D%E8%B4%B9ss%E8%B4%A6%E5%8F%B7](https://github.com/max2max/freess/wiki/%E5%85%8D%E8%B4%B9ss%E8%B4%A6%E5%8F%B7)
 
 
