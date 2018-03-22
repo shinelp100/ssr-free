@@ -41,3 +41,9 @@
 [sswhite](http://sswhite.xyz){:target="_blank"}
 
 [freefq](http://www.freefq.com/ss/){:target="_blank"}
+
+
+这是测试的内容看到可忽略
+=====
+* * *
+如何revert push的代码

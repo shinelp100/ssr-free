@@ -17,9 +17,9 @@
       <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="638">
-                <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="810">
+                <caret line="48" column="16" lean-forward="false" selection-start-line="48" selection-start-column="16" selection-end-line="48" selection-end-column="16" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -111,7 +111,7 @@
       <workItem from="1517213275188" duration="8000" />
       <workItem from="1517213323965" duration="1023000" />
       <workItem from="1519973166544" duration="380000" />
-      <workItem from="1521685427261" duration="663000" />
+      <workItem from="1521685427261" duration="832000" />
     </task>
     <task id="LOCAL-00001" summary="提交md文件样式修改">
       <created>1521685752789</created>
@@ -124,7 +124,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2074000" />
+    <option name="totallyTimeSpent" value="2243000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="54" y="-8" width="1874" height="1096" extended-state="6" />
@@ -177,9 +177,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="638">
-            <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="810">
+            <caret line="48" column="16" lean-forward="false" selection-start-line="48" selection-start-column="16" selection-end-line="48" selection-end-column="16" />
             <folding />
           </first_editor>
           <second_editor />
