@@ -42,7 +42,9 @@
 
 [freefq](http://www.freefq.com/ss/){:target="_blank"}
 
-深夜git test
+
+忽略文件.idea/workspace.xml文件
 =====
 ---
-我是测试的内容
+在.gitignore文件中添加忽略项#.idea/workspace.xml
+
