@@ -41,3 +41,9 @@
 [sswhite](http://sswhite.xyz){:target="_blank"}
 
 [freefq](http://www.freefq.com/ss/){:target="_blank"}
+
+
+忽略文件.idea/workspace.xml文件
+=====
+---
+在.gitignore文件中添加忽略项#.idea/workspace.xml
