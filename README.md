@@ -1,4 +1,7 @@
-##免费ss网站汇集 （不定期更新）
+免费ss网站汇集 （不定期更新）
+=====
+
+---
 
  - 最近SETUPVPN chrome翻墙插件也可以用了[setupVpn](http://69.28.91.10/)
  ```html
@@ -8,23 +11,25 @@
     
 ```
 
-[https://github.com/max2max/freess/wiki/%E5%85%8D%E8%B4%B9ss%E8%B4%A6%E5%8F%B7](https://github.com/max2max/freess/wiki/%E5%85%8D%E8%B4%B9ss%E8%B4%A6%E5%8F%B7)
+[freess](https://github.com/max2max/freess/wiki/%E5%85%8D%E8%B4%B9ss%E8%B4%A6%E5%8F%B7){:target = "_blank"}
 
 
-#####下面的是亲测可用
+下面的是亲测可用
+=====
+
+---
+
+[freess.cx](https://freess.cx/)
 
 
-[https://freess.cx/](https://freess.cx/)
+[shadowsocks-shadowsocks](https://la4ji.blogspot.com/2017/09/shadowsocks-shadowsocks.html?m=1){:target = "_blank"}
 
+[Alvin9999](https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7){:target = "_blank"}
 
-[https://la4ji.blogspot.com/2017/09/shadowsocks-shadowsocks.html?m=1](https://la4ji.blogspot.com/2017/09/shadowsocks-shadowsocks.html?m=1)
+[freess.pw](https://freess.pw/){:target = "_blank"}
 
-[https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7](https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7)
+[qianbai](https://qianbai.ml){:target = "_blank"}
 
-[https://freess.pw/](https://freess.pw/)
+[sswhite](http://sswhite.xyz){:target = "_blank"}
 
-[https://qianbai.ml/](https://qianbai.ml)
-
-[http://sswhite.xyz](http://sswhite.xyz)
-
-[http://www.freefq.com/ss/](http://www.freefq.com/ss/)
+[freefq](http://www.freefq.com/ss/){:target = "_blank"}
