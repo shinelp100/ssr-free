@@ -11,7 +11,7 @@
     
 ```
 
-[freess](https://github.com/max2max/freess/wiki/%E5%85%8D%E8%B4%B9ss%E8%B4%A6%E5%8F%B7){:target = "_blank"}
+[freess](https://github.com/max2max/freess/wiki/%E5%85%8D%E8%B4%B9ss%E8%B4%A6%E5%8F%B7){:target="_blank"}
 
 
 下面的是亲测可用
@@ -22,14 +22,14 @@
 [freess.cx](https://freess.cx/)
 
 
-[shadowsocks-shadowsocks](https://la4ji.blogspot.com/2017/09/shadowsocks-shadowsocks.html?m=1){:target = "_blank"}
+[shadowsocks-shadowsocks](https://la4ji.blogspot.com/2017/09/shadowsocks-shadowsocks.html?m=1){:target="_blank"}
 
-[Alvin9999](https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7){:target = "_blank"}
+[Alvin9999](https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7){:target="_blank"}
 
-[freess.pw](https://freess.pw/){:target = "_blank"}
+[freess.pw](https://freess.pw/){:target="_blank"}
 
-[qianbai](https://qianbai.ml){:target = "_blank"}
+[qianbai](https://qianbai.ml){:target="_blank"}
 
-[sswhite](http://sswhite.xyz){:target = "_blank"}
+[sswhite](http://sswhite.xyz){:target="_blank"}
 
-[freefq](http://www.freefq.com/ss/){:target = "_blank"}
+[freefq](http://www.freefq.com/ss/){:target="_blank"}
